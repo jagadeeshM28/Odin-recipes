@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font size: 50px;
+}
+
+.bcimg, .ftimg , .sbimg{
+    display: flex;
+    justify-content: center;
+}
+
+.bcdes{
+    background-color: lightgoldenrodyellow;
+}
